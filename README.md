@@ -1,5 +1,5 @@
 # SF-Salaries
-Basic analysis of a San Francisco government employee salary dataset using SQL. 
+Basic manipulation and analysis of a San Francisco government employee salary dataset using SQL. 
 
 For this project, I used a Kaggle dataset containing information on San Francisco government employees (link: https://www.kaggle.com/datasets/kaggle/sf-salaries). Here is a basic description of the data: 
 
